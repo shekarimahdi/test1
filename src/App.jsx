@@ -9,6 +9,7 @@ function App() {
     {name: "samsung s21", price: 300},
     {name: "samsung s22", price: 400},
     {name: "samsung s23", price: 500},
+    {name: "samsung s24", price: 800},
   ];
 
   return (
